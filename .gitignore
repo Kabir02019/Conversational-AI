@@ -1,0 +1,6 @@
+node_modules
+.env
+database/*.db
+frontend/frontend-app/.next
+frontend/frontend-app/node_modules
+frontend/frontend-app/app/favicon.ico
